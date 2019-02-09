@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\lab2\TASK2\TASK2\bin\Debug\TASK2.exe.config
+C:\Users\HP\source\repos\lab2\TASK2\TASK2\bin\Debug\TASK2.exe
+C:\Users\HP\source\repos\lab2\TASK2\TASK2\bin\Debug\TASK2.pdb
+C:\Users\HP\source\repos\lab2\TASK2\TASK2\obj\Debug\TASK2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\lab2\TASK2\TASK2\obj\Debug\TASK2.exe
+C:\Users\HP\source\repos\lab2\TASK2\TASK2\obj\Debug\TASK2.pdb

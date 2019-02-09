@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\lab2\TASK4\TASK4\bin\Debug\TASK4.exe.config
+C:\Users\HP\source\repos\lab2\TASK4\TASK4\bin\Debug\TASK4.exe
+C:\Users\HP\source\repos\lab2\TASK4\TASK4\bin\Debug\TASK4.pdb
+C:\Users\HP\source\repos\lab2\TASK4\TASK4\obj\Debug\TASK4.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\lab2\TASK4\TASK4\obj\Debug\TASK4.exe
+C:\Users\HP\source\repos\lab2\TASK4\TASK4\obj\Debug\TASK4.pdb
