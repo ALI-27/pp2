@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\ПОТОКИ\ПОТОКИ\obj\Debug\ПОТОКИ.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ПОТОКИ\ПОТОКИ\obj\Debug\ПОТОКИ.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ПОТОКИ\ПОТОКИ\bin\Debug\ПОТОКИ.exe.config
+C:\Users\HP\source\repos\ПОТОКИ\ПОТОКИ\bin\Debug\ПОТОКИ.exe
+C:\Users\HP\source\repos\ПОТОКИ\ПОТОКИ\bin\Debug\ПОТОКИ.pdb
+C:\Users\HP\source\repos\ПОТОКИ\ПОТОКИ\obj\Debug\ПОТОКИ.exe
+C:\Users\HP\source\repos\ПОТОКИ\ПОТОКИ\obj\Debug\ПОТОКИ.pdb
