@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\polosa\polosa\bin\Debug\polosa.exe.config
+C:\Users\HP\source\repos\polosa\polosa\bin\Debug\polosa.exe
+C:\Users\HP\source\repos\polosa\polosa\bin\Debug\polosa.pdb
+C:\Users\HP\source\repos\polosa\polosa\obj\Debug\polosa.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\polosa\polosa\obj\Debug\polosa.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\polosa\polosa\obj\Debug\polosa.exe
+C:\Users\HP\source\repos\polosa\polosa\obj\Debug\polosa.pdb
