@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\DateNow\DateNow\bin\Debug\DateNow.exe.config
+C:\Users\HP\source\repos\DateNow\DateNow\bin\Debug\DateNow.exe
+C:\Users\HP\source\repos\DateNow\DateNow\bin\Debug\DateNow.pdb
+C:\Users\HP\source\repos\DateNow\DateNow\obj\Debug\DateNow.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DateNow\DateNow\obj\Debug\DateNow.exe
+C:\Users\HP\source\repos\DateNow\DateNow\obj\Debug\DateNow.pdb
