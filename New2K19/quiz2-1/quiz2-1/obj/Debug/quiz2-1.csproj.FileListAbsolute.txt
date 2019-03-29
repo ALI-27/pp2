@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\quiz2-1\quiz2-1\bin\Debug\quiz2-1.exe.config
+C:\Users\HP\source\repos\quiz2-1\quiz2-1\bin\Debug\quiz2-1.exe
+C:\Users\HP\source\repos\quiz2-1\quiz2-1\bin\Debug\quiz2-1.pdb
+C:\Users\HP\source\repos\quiz2-1\quiz2-1\obj\Debug\quiz2-1.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\quiz2-1\quiz2-1\obj\Debug\quiz2-1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\quiz2-1\quiz2-1\obj\Debug\quiz2-1.exe
+C:\Users\HP\source\repos\quiz2-1\quiz2-1\obj\Debug\quiz2-1.pdb
