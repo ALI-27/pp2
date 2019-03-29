@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Thread\Thread\bin\Debug\Thread.exe.config
+C:\Users\HP\source\repos\Thread\Thread\bin\Debug\Thread.exe
+C:\Users\HP\source\repos\Thread\Thread\bin\Debug\Thread.pdb
+C:\Users\HP\source\repos\Thread\Thread\obj\Debug\Thread.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Thread\Thread\obj\Debug\Thread.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Thread\Thread\obj\Debug\Thread.exe
+C:\Users\HP\source\repos\Thread\Thread\obj\Debug\Thread.pdb
