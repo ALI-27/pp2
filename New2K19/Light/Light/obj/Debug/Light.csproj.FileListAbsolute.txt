@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Light\Light\bin\Debug\Light.exe.config
+C:\Users\HP\source\repos\Light\Light\bin\Debug\Light.exe
+C:\Users\HP\source\repos\Light\Light\bin\Debug\Light.pdb
+C:\Users\HP\source\repos\Light\Light\obj\Debug\Light.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Light\Light\obj\Debug\Light.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Light\Light\obj\Debug\Light.exe
+C:\Users\HP\source\repos\Light\Light\obj\Debug\Light.pdb
