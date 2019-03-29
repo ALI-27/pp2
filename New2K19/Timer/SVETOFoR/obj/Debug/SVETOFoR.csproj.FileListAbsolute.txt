@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\new\SVETOFoR\SVETOFoR\obj\Debug\SVETOFoR.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\new\SVETOFoR\SVETOFoR\obj\Debug\SVETOFoR.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\new\SVETOFoR\SVETOFoR\bin\Debug\SVETOFoR.exe.config
+C:\Users\HP\source\repos\new\SVETOFoR\SVETOFoR\bin\Debug\SVETOFoR.exe
+C:\Users\HP\source\repos\new\SVETOFoR\SVETOFoR\bin\Debug\SVETOFoR.pdb
+C:\Users\HP\source\repos\new\SVETOFoR\SVETOFoR\obj\Debug\SVETOFoR.exe
+C:\Users\HP\source\repos\new\SVETOFoR\SVETOFoR\obj\Debug\SVETOFoR.pdb

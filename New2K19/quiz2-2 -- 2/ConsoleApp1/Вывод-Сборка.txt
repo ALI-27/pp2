@@ -1,0 +1,4 @@
+﻿1>------ Сборка начата: проект: ConsoleApp1, Конфигурация: Debug Any CPU ------
+1>C:\Users\HP\source\repos\new\ConsoleApp1\ConsoleApp1\Program.cs(2,7,2,13): warning CS0105: Директива using для "System" ранее встречалась в этом пространстве имен
+1>  ConsoleApp1 -> C:\Users\HP\source\repos\new\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
