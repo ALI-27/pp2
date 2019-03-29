@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\DateNow2\DateNow2\bin\Debug\DateNow2.exe.config
+C:\Users\HP\source\repos\DateNow2\DateNow2\bin\Debug\DateNow2.exe
+C:\Users\HP\source\repos\DateNow2\DateNow2\bin\Debug\DateNow2.pdb
+C:\Users\HP\source\repos\DateNow2\DateNow2\obj\Debug\DateNow2.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\DateNow2\DateNow2\obj\Debug\DateNow2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DateNow2\DateNow2\obj\Debug\DateNow2.exe
+C:\Users\HP\source\repos\DateNow2\DateNow2\obj\Debug\DateNow2.pdb
