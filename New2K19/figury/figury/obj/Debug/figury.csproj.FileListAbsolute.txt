@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\figury\figury\bin\Debug\figury.exe.config
+C:\Users\HP\source\repos\figury\figury\bin\Debug\figury.exe
+C:\Users\HP\source\repos\figury\figury\bin\Debug\figury.pdb
+C:\Users\HP\source\repos\figury\figury\obj\Debug\figury.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\figury\figury\obj\Debug\figury.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\figury\figury\obj\Debug\figury.exe
+C:\Users\HP\source\repos\figury\figury\obj\Debug\figury.pdb
