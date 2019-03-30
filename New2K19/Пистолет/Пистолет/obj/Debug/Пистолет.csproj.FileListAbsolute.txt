@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Пистолет\Пистолет\bin\Debug\Пистолет.exe.config
+C:\Users\HP\source\repos\Пистолет\Пистолет\bin\Debug\Пистолет.exe
+C:\Users\HP\source\repos\Пистолет\Пистолет\bin\Debug\Пистолет.pdb
+C:\Users\HP\source\repos\Пистолет\Пистолет\obj\Debug\Пистолет.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Пистолет\Пистолет\obj\Debug\Пистолет.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Пистолет\Пистолет\obj\Debug\Пистолет.exe
+C:\Users\HP\source\repos\Пистолет\Пистолет\obj\Debug\Пистолет.pdb
