@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\CaLCuLaToR\CaLCuLaToR\bin\x64\Debug\CaLCuLaToR.exe.config
+C:\Users\HP\Desktop\CaLCuLaToR\CaLCuLaToR\bin\x64\Debug\CaLCuLaToR.exe
+C:\Users\HP\Desktop\CaLCuLaToR\CaLCuLaToR\bin\x64\Debug\CaLCuLaToR.pdb
+C:\Users\HP\Desktop\CaLCuLaToR\CaLCuLaToR\obj\x64\Debug\CaLCuLaToR.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\CaLCuLaToR\CaLCuLaToR\obj\x64\Debug\CaLCuLaToR.Form1.resources
+C:\Users\HP\Desktop\CaLCuLaToR\CaLCuLaToR\obj\x64\Debug\CaLCuLaToR.Properties.Resources.resources
+C:\Users\HP\Desktop\CaLCuLaToR\CaLCuLaToR\obj\x64\Debug\CaLCuLaToR.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\CaLCuLaToR\CaLCuLaToR\obj\x64\Debug\CaLCuLaToR.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CaLCuLaToR\CaLCuLaToR\obj\x64\Debug\CaLCuLaToR.exe
+C:\Users\HP\Desktop\CaLCuLaToR\CaLCuLaToR\obj\x64\Debug\CaLCuLaToR.pdb
