@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Dvizheniapooktugnosti\Dvizheniapooktugnosti\bin\Debug\Dvizheniapooktugnosti.exe.config
+C:\Users\HP\source\repos\Dvizheniapooktugnosti\Dvizheniapooktugnosti\bin\Debug\Dvizheniapooktugnosti.exe
+C:\Users\HP\source\repos\Dvizheniapooktugnosti\Dvizheniapooktugnosti\bin\Debug\Dvizheniapooktugnosti.pdb
+C:\Users\HP\source\repos\Dvizheniapooktugnosti\Dvizheniapooktugnosti\obj\Debug\Dvizheniapooktugnosti.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Dvizheniapooktugnosti\Dvizheniapooktugnosti\obj\Debug\Dvizheniapooktugnosti.Form1.resources
+C:\Users\HP\source\repos\Dvizheniapooktugnosti\Dvizheniapooktugnosti\obj\Debug\Dvizheniapooktugnosti.Properties.Resources.resources
+C:\Users\HP\source\repos\Dvizheniapooktugnosti\Dvizheniapooktugnosti\obj\Debug\Dvizheniapooktugnosti.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Dvizheniapooktugnosti\Dvizheniapooktugnosti\obj\Debug\Dvizheniapooktugnosti.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Dvizheniapooktugnosti\Dvizheniapooktugnosti\obj\Debug\Dvizheniapooktugnosti.exe
+C:\Users\HP\source\repos\Dvizheniapooktugnosti\Dvizheniapooktugnosti\obj\Debug\Dvizheniapooktugnosti.pdb
